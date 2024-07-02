@@ -17,7 +17,8 @@ This project outlines the development of a comprehensive ETL (Extract, Transform
 * Data-Driven Decision Making: Empowers users to make informed decisions based on actionable insights.
 
 ## Overview:
-![image (4)](https://github.com/bhagyesh-db/data-engineering-end-to-end-analytics-pipeline/assets/80820339/88ce479c-1bca-4bf8-91a9-8283cfee275c)
+![architecture](https://github.com/bhagyesh-db/data-engineering-end-to-end-analytics-pipeline/assets/80820339/09786826-12df-4be8-b37f-8bcaaf9b4b66)
+
 
 ## Dataset:
 Data has statistics (CSV files) on daily popular YouTube Videos over the course of lot of months. On an average, daily, there are around 200 trending videos worldwide. Every region is having a dedicated file with details like the video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count. A category_id field, which differs by area, is included in the JSON file and acts as join key for the region.
